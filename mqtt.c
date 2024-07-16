@@ -1,9 +1,6 @@
 
 
 #include <mqtt.h>
-#include "string.h"
-#include "ssp_main.h"
-#include "gprs.h"
 
 /** 
  * @file 
