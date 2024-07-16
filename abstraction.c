@@ -1,11 +1,7 @@
 
 
 #include <mqtt.h>
-#include "string.h"
 
-//Krishna
-#include "gprs.h"
-#include "gsm_cmd.h"
 
 
 
